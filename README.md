@@ -49,6 +49,8 @@ ResNet50, short for Residual Networks, was introduced by Kaiming He and his coll
 
 We deployed our final model using Gradio, a Python library that allows easy creation of web interfaces for machine learning models. The deployment is live for 72 hours.
 
+![Gradio Inteface](Images/homepage_image.png)
+
 ### Examples
 
 #### Happy Emotion Detection
