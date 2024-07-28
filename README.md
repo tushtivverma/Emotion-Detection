@@ -27,7 +27,7 @@ We used the `compute_class_weight` function from `sklearn` to add more weights t
 
 The first model was built from scratch using the Sequential API of Keras. The architecture is as follows:
 
-![Model Architecture](model.png)
+![Model Architecture](model_image.png)
 
 ### Model 2: Sequential Model with Image Augmentation
 
@@ -52,10 +52,10 @@ We deployed our final model using Gradio, a Python library that allows easy crea
 ### Examples
 
 #### Happy Emotion Detection
-![Gradio Interface - Happy](happy.png)
+![Gradio Interface - Happy](happy_image.png)
 
 #### Surprise Emotion Detection
-![Gradio Interface - Surprise](surprise.png)
+![Gradio Interface - Surprise](surprise_image.png)
 
 ## Conclusion
 
